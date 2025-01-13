@@ -14,7 +14,6 @@ total_votes = 0  # Track the total number of votes cast
 
 # Define lists and dictionaries to track candidate names and vote counts
 vote_count = {}
-candidate_names = []
 votes = []
 
 # Winning Candidate and Winning Count Tracker
